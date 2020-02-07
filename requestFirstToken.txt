@@ -1,0 +1,7 @@
+http://localhost:8080/treinamento/oauth/token?grant_type=password&username=roberto.junior@castgroup.com.br&password=admin
+
+Colocar "Basic Auth" e colocar:
+Username:
+  treinamento-id 
+Senha: 
+  treinamento-secret
